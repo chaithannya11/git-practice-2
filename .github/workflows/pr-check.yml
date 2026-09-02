@@ -1,0 +1,11 @@
+name: PR Check
+
+on:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check
+        run: echo "PR check passed"
