@@ -1,0 +1,5 @@
+product module
+product name
+product price
+product category
+product stock
